@@ -5,13 +5,13 @@ A simple React app built with Vite that displays a list of todos.
 ## Installation
 
 1. Clone the repository:
-   '''bash
+   ```bash
    git clone https://github.com/Thomas551716/todo-List.git
    cd todo-List
    save the file.
 2. Commit your changes
 Run this in terminal(still inside the 'todo-List' folder):
-'''bash
+   ```bash
 git add .
 git commit -m "final cleanup and added README"
 
